@@ -1,5 +1,0 @@
-{
-  "name": "dynamic-feature-flag-decay-detector",
-  "service": "aws-kiro",
-  "version": "1.0.0"
-}

@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: dynamic-feature-flag-decay-detector
-runtime: python3.11
-entrypoint: agent.py
