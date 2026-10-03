@@ -1,0 +1,6 @@
+app:
+  name: "dynamic-feature-flag-decay-detector"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"

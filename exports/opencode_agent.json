@@ -1,0 +1,8 @@
+{
+  "agent_id": "dynamic-feature-flag-decay-detector",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
